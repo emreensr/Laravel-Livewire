@@ -1,12 +1,14 @@
 ## Laravel Livewire CRUD
 
+It is a simple CRUD operation with Laravel livewire.
+You can add, list, update and search users.
 
-### Projeyi ayağa kaldırmak için 
 
-```
-composer install
+### To run this project
 
-php artisan key:generate
 
-php artisan serve
-```
+`composer install`
+
+`php artisan key:generate`
+
+`php artisan serve`
